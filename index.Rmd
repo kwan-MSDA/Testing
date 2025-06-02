@@ -1,5 +1,5 @@
 ---
-title: "SOCI7016Final Project"
+title: "SOCI7016 Final Project"
 author: "Your Group Number"
 description: "Final group project"
 output:
@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-Our group is interested in exploring data related to...
+<!-- Our group is interested in exploring data related to... -->
